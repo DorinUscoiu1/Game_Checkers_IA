@@ -1,0 +1,11 @@
+Nume: Uscoiu Dorin Petrut
+Adresa Institutionala: dorin.uscoiu@student.unitbv.ro
+Grupa: 10LF323
+Descriere a jocului de dame:
+Jocul este de regulă alcătuit dintr-o tablă de șah cu 8 x 8 pătrate colorate alternativ deschis și întunecat. 
+Figurile de joc sunt 24 de discuri rotunde confecționate din lemn, pentru unul culoare albă și de culoare neagră pentru celălalt jucător. 
+Câmpul de joc îl constituie numai pătrățelele de culoare închisă, piesele de joc deplasându-se numai diagonal înainte, câte un pătrat, caz de excepție când poate sări peste piesa adversarului pe care o câștigă. 
+Condiția de a putea sări piesa adversarului este ca în spatele piesei sărite să existe un câmp (pătrat) gol. 
+Țelul jocului este de a ajunge pe ultimul rând de pătrățele din partea adversarului când piesele de joc suprapuse două câte două vor fi numite „dame”. 
+Aceste piese duble de joc pot sări diagonal de-a lungul tablei. 
+A câștigat jocul acea persoană care a câștigat toate piesele adversarului sau l-a blocat.
